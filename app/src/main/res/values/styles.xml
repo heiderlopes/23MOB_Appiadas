@@ -37,5 +37,6 @@
         <item name="android:layout_marginBottom">@dimen/margin_default</item>
         <item name="android:textColor">@color/colorTextButton</item>
         <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:textAllCaps">true</item>
     </style>
 </resources>
