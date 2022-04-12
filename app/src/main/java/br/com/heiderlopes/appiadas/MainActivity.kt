@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var tvJoker : TextView
     lateinit var btTellJoker: Button
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
